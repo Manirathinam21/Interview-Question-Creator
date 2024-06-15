@@ -19,8 +19,9 @@ source activate venv/
 pip install -r requirements.txt
 
 ```
+3. TO run the application
 
-
-```
+```bash
+python app.py
 
 ```
